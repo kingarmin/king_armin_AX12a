@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For king_armin_AX12
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+king_armin_AX12		KEYWORD1	AX12
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+LED		KEYWORD2
+set_degree	KEYWORD2
+set_speed	KEYWORD2
+setAngleLimit	KEYWORD2
+setWheelMode	KEYWORD2
+setJointMode	KEYWORD2
+torque		KEYWORD2
+Init		KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+
